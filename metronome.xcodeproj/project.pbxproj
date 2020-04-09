@@ -13,6 +13,7 @@
 		9553B191240B8EBC00542407 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9553B18F240B8EBC00542407 /* Main.storyboard */; };
 		9553B193240B8EBE00542407 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9553B192240B8EBE00542407 /* Assets.xcassets */; };
 		9553B196240B8EBE00542407 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9553B194240B8EBE00542407 /* LaunchScreen.storyboard */; };
+		9553B19E240BC1E000542407 /* button46.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9553B19D240BC1E000542407 /* button46.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9553B192240B8EBE00542407 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9553B195240B8EBE00542407 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9553B197240B8EBE00542407 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9553B19D240BC1E000542407 /* button46.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = button46.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				9553B18D240B8EBC00542407 /* ViewController.swift */,
 				9553B18F240B8EBC00542407 /* Main.storyboard */,
 				9553B192240B8EBE00542407 /* Assets.xcassets */,
+				9553B19D240BC1E000542407 /* button46.mp3 */,
 				9553B194240B8EBE00542407 /* LaunchScreen.storyboard */,
 				9553B197240B8EBE00542407 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9553B19E240BC1E000542407 /* button46.mp3 in Resources */,
 				9553B196240B8EBE00542407 /* LaunchScreen.storyboard in Resources */,
 				9553B193240B8EBE00542407 /* Assets.xcassets in Resources */,
 				9553B191240B8EBC00542407 /* Main.storyboard in Resources */,
